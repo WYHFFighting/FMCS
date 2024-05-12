@@ -1,0 +1,70 @@
+no gdc
+[Classification] Macro-F1: 0.8991 (0.0031) | Micro-F1: 0.8992 (0.0029)
+
+use_gdc
+alpha = 0.15:
+[Classification] Macro-F1: 0.8333 (0.0030) | Micro-F1: 0.8348 (0.0035)
+gdc alpha: 0.05
+[Classification] Macro-F1: 0.8148 (0.0126) | Micro-F1: 0.8167 (0.0116)
+gdc alpha: 0.1
+[Classification] Macro-F1: 0.8478 (0.0110) | Micro-F1: 0.8487 (0.0111)
+gdc alpha: 0.15000000000000002
+[Classification] Macro-F1: 0.8018 (0.0253) | Micro-F1: 0.8044 (0.0238)
+gdc alpha: 0.2
+[Classification] Macro-F1: 0.8339 (0.0123) | Micro-F1: 0.8361 (0.0116)
+gdc alpha: 0.25
+[Classification] Macro-F1: 0.8267 (0.0054) | Micro-F1: 0.8253 (0.0063)
+gdc alpha: 0.30000000000000004
+[Classification] Macro-F1: 0.8200 (0.0167) | Micro-F1: 0.8202 (0.0159)
+gdc alpha: 0.35000000000000003
+[Classification] Macro-F1: 0.8524 (0.0066) | Micro-F1: 0.8533 (0.0064)
+gdc alpha: 0.4
+[Classification] Macro-F1: 0.8216 (0.0088) | Micro-F1: 0.8241 (0.0085)
+gdc alpha: 0.45
+[Classification] Macro-F1: 0.8451 (0.0071) | Micro-F1: 0.8487 (0.0097)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.8455 (0.0035) | Micro-F1: 0.8435 (0.0066)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.8101 (0.0122) | Micro-F1: 0.8136 (0.0114)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5876 (0.0071) | Micro-F1: 0.5973 (0.0079)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5876 (0.0072) | Micro-F1: 0.5973 (0.0080)
+
+new
+Evaluating...
+	[Classification] Macro-F1: 0.5876 (0.0072) | Micro-F1: 0.5973 (0.0080)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5835 (0.0109) | Micro-F1: 0.5986 (0.0070)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6016 (0.0125) | Micro-F1: 0.6113 (0.0109)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5901 (0.0127) | Micro-F1: 0.6042 (0.0112)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6524 (0.0110) | Micro-F1: 0.6529 (0.0106)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6050 (0.0120) | Micro-F1: 0.6099 (0.0116)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6020 (0.0133) | Micro-F1: 0.6103 (0.0109)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.7049 (0.0127) | Micro-F1: 0.7004 (0.0115)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6707 (0.0118) | Micro-F1: 0.6733 (0.0113)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5730 (0.0107) | Micro-F1: 0.5786 (0.0102)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.5791 (0.0108) | Micro-F1: 0.5853 (0.0102)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6414 (0.0074) | Micro-F1: 0.6443 (0.0065)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6428 (0.0128) | Micro-F1: 0.6465 (0.0114)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6535 (0.0055) | Micro-F1: 0.6554 (0.0062)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6244 (0.0143) | Micro-F1: 0.6280 (0.0123)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6259 (0.0094) | Micro-F1: 0.6305 (0.0088)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6497 (0.0084) | Micro-F1: 0.6521 (0.0081)
+gdc alpha: 0.35
+[Classification] Macro-F1: 0.6265 (0.0063) | Micro-F1: 0.6293 (0.0059)
